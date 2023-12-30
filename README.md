@@ -1,3 +1,4 @@
+<h1 align="center">Shiyam R </h1>
 <h3 align="center">Computer Science Student, Coding the Future; Bite by Bite. Passionate data scientist here, specializing in advanced analytics and machine learning. I'm all about using data to make smart decisions and uncover valuable insights from complex info. I love working with diverse teams to create scalable solutions that boost efficiency and help businesses grow. I'm always learning and keeping up with new tech to bring fresh ideas and contribute to forward-thinking organizations. Let's revolutionize industries together!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shiiyam03&label=Profile%20views&color=0e75b6&style=flat" alt="shiiyam03" /> </p>
