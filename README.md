@@ -1,11 +1,8 @@
-<h1 align="center">Hi 👋, I'm Shiyam R</h1>
-<h3 align="center">Data Scientist who's Coding his Future, Bite by Bite</h3>
+<h3 align="center">Computer Science Student, Coding the Future; Bite by Bite. Passionate data scientist here, specializing in advanced analytics and machine learning. I'm all about using data to make smart decisions and uncover valuable insights from complex info. I love working with diverse teams to create scalable solutions that boost efficiency and help businesses grow. I'm always learning and keeping up with new tech to bring fresh ideas and contribute to forward-thinking organizations. Let's revolutionize industries together!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shiiyam03&label=Profile%20views&color=0e75b6&style=flat" alt="shiiyam03" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shiiyam03" alt="shiiyam03" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/shiiyam03" target="blank"><img src="https://img.shields.io/twitter/follow/shiiyam03?logo=twitter&style=for-the-badge" alt="shiiyam03" /></a> </p>
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
